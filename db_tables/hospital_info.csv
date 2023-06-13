@@ -1,0 +1,5 @@
+Hospital_id,Hospital_name,Address,Postcode,Contact,Location,blood_bank_id
+1,"Northwick Park Hospital","Watford Rd,Harrow","HA1 3UJ",2088643232,London,1
+2,"Mount Vernon Hospital","Rickmansworth Rd,Northwood","HA6 2RN",1923826111,London,1
+3,"Watford General Hospital","Vicarage Rd, Watford","WD18 0HB",1923244366,London,1
+4,"Southmead Hospitalis_donor_required","Southmead Rd, Bristol","BS10 5NB",1179505050,Bristol,2

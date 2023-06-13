@@ -1,0 +1,8 @@
+Patient_request_id,P_id,Blood_id,Quantity,Hospital_id
+1,1,1,20,2
+2,2,2,30,3
+3,3,7,20,3
+4,4,3,20,4
+5,4,3,20,4
+6,4,3,20,4
+7,1,1,20,2
