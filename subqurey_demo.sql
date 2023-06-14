@@ -7,7 +7,7 @@ WITH results AS
 (
 SELECT bb.Blood_bank_id, bb.Blood_id, bb.Quantity
 FROM blood_banks AS bb
-WHERE bb.Quantity IN (SELECT Quantity FROM blood_banks WHERE Quantity = 200)
+WHERE bb.Quantity IN (SELECT Quantity FROM blood_banks WHERE Quantity IN(200, 300))
 ) 
 SELECT res.Blood_bank_id, b.*, res.Quantity FROM results AS res
 JOIN bloods AS b
